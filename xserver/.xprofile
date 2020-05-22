@@ -1,0 +1,4 @@
+xrandr --output HDMI-A-0 --left-of DisplayPort-0 
+# xrandr --output HDMI-A-0 --rotate left
+
+export _JAVA_AWT_WM_NONREPARENTING=1
