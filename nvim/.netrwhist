@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/madman/.config/bspwm'
+let g:netrw_dirhist_8='/home/madman/.config/awesome'
+let g:netrw_dirhist_7='/home/madman/.config/sxhkd'
+let g:netrw_dirhist_6='/home/madman/.config/awesome'
+let g:netrw_dirhist_5='/home/madman/.config/sxhkd'
+let g:netrw_dirhist_4='/home/madman/.config/nvim'
+let g:netrw_dirhist_3='/home/madman/.config/sxhkd'
+let g:netrw_dirhist_2='/home/madman/.config/bspwm'
+let g:netrw_dirhist_1='/home/madman/gitcollection/dots/zsh'
+let g:netrw_dirhist_0='/home/madman/gitcollection/pythonsamples/towergame'
